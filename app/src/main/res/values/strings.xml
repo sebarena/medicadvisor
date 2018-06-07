@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MedicAdvisor</string>
+    <string name="title_home">Search</string>
+    <string name="title_mydrugs">My Drugs</string>
+
+</resources>
